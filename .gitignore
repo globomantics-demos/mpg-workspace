@@ -1,0 +1,6 @@
+monorepo/
+common/
+ticket-service/
+event-service/
+user-service/
+api-gateway/
